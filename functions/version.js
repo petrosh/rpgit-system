@@ -7,4 +7,5 @@ function version(){
       var resp = xhr.responseText;
       return resp;
     }
+  }
 }
