@@ -1,0 +1,160 @@
+{
+  "navy": {
+    "description": " ... ",
+    "enlist": {
+      "success": "8+",
+      "DM": {
+        "+1": "in8+",
+        "+2": "ed9+"
+      }
+    },
+    "survive": {
+      "success": "5+",
+      "DM": {
+        "+2": "in7+"
+      }
+    },
+    "commission": {
+      "success": "10+",
+      "DM": {
+        "+1": "ss9+"
+      }
+    },
+    "promotion": {
+      "success": "8+",
+      "DM": {
+        "+1": "ed8+"
+      }
+    },
+    "reenlist": {
+      "success": "6+"
+    }
+  },
+  "marines": {
+    "description": " ... ",
+    "enlist": {
+      "success": "9+",
+      "DM": {
+        "+1": "in8+",
+        "+2": "st8+"
+      }
+    },
+    "survive": {
+      "success": "6+",
+      "DM": {
+        "+2": "en8+"
+      }
+    },
+    "commission": {
+      "success": "9+",
+      "DM": {
+        "+1": "ed7+"
+      }
+    },
+    "promotion": {
+      "success": "9+",
+      "DM": {
+        "+1": "ss8+"
+      }
+    },
+    "enlist": {
+      "success": "6+"
+    }
+  },
+  "army": {
+    "description": " ... ",
+    "enlist": {
+      "success": "5+",
+      "DM": {
+        "+1": "de6+",
+        "+2": "en5+"
+      }
+    },
+    "survive": {
+      "success": "5+",
+      "DM": {
+        "+2": "ed6+"
+      }
+    },
+    "commission": {
+      "success": "5+",
+      "DM": {
+        "+1": "ed7+"
+      }
+    },
+    "promotion": {
+      "success": "6+",
+      "DM": {
+        "+1": "ed7+"
+      }
+    },
+    "reenlist": {
+      "success": "7+"
+    }
+  },
+  "scouts": {
+    "description": " ... ",
+    "enlist": {
+      "success": "7+",
+      "DM": {
+        "+1": "in6+",
+        "+2": "st8+"
+      }
+    },
+    "survive": {
+      "success": "7+",
+      "DM": {
+        "+2": "en9+"
+      }
+    },
+    "reenlist": {
+      "success": "3+"
+    }
+  },
+  "merchants": {
+    "description": " ... ",
+    "enlist": {
+      "success": "7+",
+      "DM": {
+        "+1": "st7+",
+        "+2": "in6+"
+      }
+    },
+    "survive": {
+      "success": "5+",
+      "DM": {
+        "+2": "in7+"
+      }
+    },
+    "commission": {
+      "success": "4+",
+      "DM": {
+        "+1": "ed6+"
+      }
+    },
+    "promotion": {
+      "success": "10+",
+      "DM": {
+        "+1": "in9+"
+      }
+    },
+    "reenlist": {
+      "success": "4+"
+    }
+  },
+  "other": {
+    "description": " ... ",
+    "enlist": {
+      "success": "3+"
+    },
+    "survive": {
+      "success": "5+",
+      "DM": {
+        "+2": "in9+"
+      }
+    },
+    "reenlist": {
+      "success": "5+"
+    }
+  }
+}
