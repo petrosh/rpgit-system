@@ -1,6 +1,6 @@
 {
   "navy": {
-    "description": " ... ",
+    "description": "Members of the interstellar space navy which patrols space between the stars.",
     "enlist": {
       "success": "8+",
       "DM": {
@@ -31,7 +31,7 @@
     }
   },
   "marines": {
-    "description": " ... ",
+    "description": "Members of the armed fighting forces carried aboard starships.",
     "enlist": {
       "success": "9+",
       "DM": {
@@ -62,7 +62,7 @@
     }
   },
   "army": {
-    "description": " ... ",
+    "description": "Members of the planetary armed fighting forces.",
     "enlist": {
       "success": "5+",
       "DM": {
@@ -93,7 +93,7 @@
     }
   },
   "scouts": {
-    "description": " ... ",
+    "description": "Members of the exploratory service.",
     "enlist": {
       "success": "7+",
       "DM": {
@@ -112,7 +112,7 @@
     }
   },
   "merchants": {
-    "description": " ... ",
+    "description": "Merchants of the commercial enterprises.",
     "enlist": {
       "success": "7+",
       "DM": {
@@ -143,7 +143,7 @@
     }
   },
   "other": {
-    "description": " ... ",
+    "description": "The shady realm of the underworld.",
     "enlist": {
       "success": "3+"
     },
